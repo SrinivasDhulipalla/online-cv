@@ -7,20 +7,20 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Sithija Piyuman Thewa Hettige
+    name: Sithija Thewa Hettige
     tagline: Software Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: sithija.14@cse.mrt.ac.lk
     phone: +94712904737
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+#     website: blog.webjeda.com #do not add http://
+    linkedin: sithijathewahettige
+    github: fnote
     gitlab:
     bitbucket:
     twitter: '@sithijaT'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    stack-overflow: f-note# Number/Username, e.g. 123456/alandoe
     codewars:
 
     languages:
@@ -80,6 +80,8 @@ education:
 
           - Bullet point
           - Bullet point 
+          
+          
 
 experiences:
     - role: Software Engineering Intern 
@@ -133,21 +135,31 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
+      - title: Jury Savage meter for Google NLU challenge finals -2017
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Built a crowdsourcing web app for google- used for data annotation tasks in NLU.
+The app was highly appreciated by judges for collecting 14000 responses from general public
+within two weeks via innovative design."
 
-      - title: DevStudio
+      - title: Apache kafka project 
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Created a twitter producer to extract tweets with the keyword “bitcoin” and a elasticsearch
+consumer to use the extracted tweets .
+Technologies used : Apache kafka , Java ,Maven , Elasticsearch as a service by bonsai.io,Twitter
+developer API"
 
-      - title: Tempo
+      - title: Blockchain based product traceability - Final year project
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Use hyperledger blockchain technology to track a product back to its origin.
+Technologies used :Golang, chaincode , hyperledger fabric ,Docker
+My Article :https://goo.gl/2sGZQM"
 
-      - title: Atom
+      - title: “Web Admin Terminal” v 1.0
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Admin terminal is an application used to handle customer support services in stock
+brokerages. Converted the existing desktop version to a pilot web version.
+Technologies used: Angular 4, CSS3, HTML5, JavaScript, TypeScript, Bootstrap3
+My Article on PoC: https://goo.gl/2sGZQM"
 
       - title: Delta
         link: "#"
